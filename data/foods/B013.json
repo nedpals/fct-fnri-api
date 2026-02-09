@@ -1,0 +1,233 @@
+{
+  "id": "B013",
+  "name": "Sweet potato, yellow",
+  "food_group_code": "B",
+  "food_group": "Starchy Roots, Tubers and Products",
+  "scientific_name": "Ipomoea batatas",
+  "alternative_name": "Kamote, dilaw",
+  "edible_portion_pct": 88.0,
+  "report_id": "3180",
+  "report_url": "https://i.fnri.dost.gov.ph/fct/library/report/3180",
+  "image_id": "3180",
+  "image_url": "https://i.fnri.dost.gov.ph/fct/library/load_image_fct/3180",
+  "nutrients": [
+    {
+      "key": "water_g",
+      "name": "Water",
+      "value": 65.5,
+      "unit": "g",
+      "raw_label": "Water (g)",
+      "raw_value": "65.5",
+      "category": "proximates"
+    },
+    {
+      "key": "protein_g",
+      "name": "Protein",
+      "value": 1.1,
+      "unit": "g",
+      "raw_label": "Protein (g)",
+      "raw_value": "1.1",
+      "category": "proximates"
+    },
+    {
+      "key": "total_fat_g",
+      "name": "Total Fat",
+      "value": 0.4,
+      "unit": "g",
+      "raw_label": "Total Fat (g)",
+      "raw_value": "0.4",
+      "category": "proximates"
+    },
+    {
+      "key": "carbohydrate_total_g",
+      "name": "Carbohydrate, total",
+      "value": 31.8,
+      "unit": "g",
+      "raw_label": "Carbohydrate, total (g)",
+      "raw_value": "31.8",
+      "category": "proximates"
+    },
+    {
+      "key": "ash_total_g",
+      "name": "Ash, total",
+      "value": 1.2,
+      "unit": "g",
+      "raw_label": "Ash, total (g)",
+      "raw_value": "1.2",
+      "category": "proximates"
+    },
+    {
+      "key": "fiber_total_dietary_g",
+      "name": "Fiber, total dietary",
+      "value": 4.6,
+      "unit": "g",
+      "raw_label": "Fiber, total dietary (g)",
+      "raw_value": "4.6",
+      "category": "other_carbohydrate"
+    },
+    {
+      "key": "sugars_total_g",
+      "name": "Sugars, total",
+      "value": 6.3,
+      "unit": "g",
+      "raw_label": "Sugars, total (g)",
+      "raw_value": "6.3",
+      "category": "other_carbohydrate"
+    },
+    {
+      "key": "calcium_ca_mg",
+      "name": "Calcium, Ca",
+      "value": 55.0,
+      "unit": "mg",
+      "raw_label": "Calcium, Ca (mg)",
+      "raw_value": "55",
+      "category": "minerals"
+    },
+    {
+      "key": "phosphorus_p_mg",
+      "name": "Phosphorus, P",
+      "value": 51.0,
+      "unit": "mg",
+      "raw_label": "Phosphorus, P (mg)",
+      "raw_value": "51",
+      "category": "minerals"
+    },
+    {
+      "key": "iron_fe_mg",
+      "name": "Iron, Fe",
+      "value": 0.7,
+      "unit": "mg",
+      "raw_label": "Iron, Fe (mg)",
+      "raw_value": "0.7",
+      "category": "minerals"
+    },
+    {
+      "key": "sodium_na_mg",
+      "name": "Sodium, Na",
+      "value": 4.0,
+      "unit": "mg",
+      "raw_label": "Sodium, Na (mg)",
+      "raw_value": "4",
+      "category": "minerals"
+    },
+    {
+      "key": "retinol_vitamin_a_g",
+      "name": "Retinol, Vitamin A",
+      "value": 0.0,
+      "unit": "\u00b5g",
+      "raw_label": "Retinol, Vitamin A (\u00b5g)",
+      "raw_value": "0",
+      "category": "vitamins"
+    },
+    {
+      "key": "beta_carotene_g",
+      "name": "beta-Carotene",
+      "value": 540.0,
+      "unit": "\u00b5g",
+      "raw_label": "beta-Carotene (\u00b5g)",
+      "raw_value": "540",
+      "category": "vitamins"
+    },
+    {
+      "key": "retinol_activity_equivalent_rae_g",
+      "name": "Retinol Activity Equivalent, RAE",
+      "value": 45.0,
+      "unit": "\u00b5g",
+      "raw_label": "Retinol Activity Equivalent, RAE (\u00b5g)",
+      "raw_value": "45",
+      "category": "vitamins"
+    },
+    {
+      "key": "thiamin_vitamin_b1_mg",
+      "name": "Thiamin, Vitamin B1",
+      "value": 0.1,
+      "unit": "mg",
+      "raw_label": "Thiamin, Vitamin B1 (mg)",
+      "raw_value": "0.10",
+      "category": "vitamins"
+    },
+    {
+      "key": "riboflavin_vitamin_b2_mg",
+      "name": "Riboflavin, Vitamin B2",
+      "value": 0.04,
+      "unit": "mg",
+      "raw_label": "Riboflavin, Vitamin B2 (mg)",
+      "raw_value": "0.04",
+      "category": "vitamins"
+    },
+    {
+      "key": "niacin_mg",
+      "name": "Niacin",
+      "value": 0.6,
+      "unit": "mg",
+      "raw_label": "Niacin (mg)",
+      "raw_value": "0.6",
+      "category": "vitamins"
+    },
+    {
+      "key": "niacin_from_tryptophan_mg",
+      "name": "Niacin from Tryptophan",
+      "value": 0.4,
+      "unit": "mg",
+      "raw_label": "Niacin from Tryptophan (mg)",
+      "raw_value": "0.4",
+      "category": "vitamins"
+    },
+    {
+      "key": "ascorbic_acid_vitamin_c_mg",
+      "name": "Ascorbic Acid, Vitamin C",
+      "value": 35.0,
+      "unit": "mg",
+      "raw_label": "Ascorbic Acid, Vitamin C (mg)",
+      "raw_value": "35",
+      "category": "vitamins"
+    },
+    {
+      "key": "fatty_acids_saturated_total_g",
+      "name": "Fatty acids, saturated, total",
+      "value": 0.14,
+      "unit": "g",
+      "raw_label": "Fatty acids, saturated, total (g)",
+      "raw_value": "0.14",
+      "category": "lipids"
+    },
+    {
+      "key": "fatty_acids_monounsaturated_total_g",
+      "name": "Fatty acids, monounsaturated, total",
+      "value": 0.01,
+      "unit": "g",
+      "raw_label": "Fatty acids, monounsaturated, total (g)",
+      "raw_value": "0.01",
+      "category": "lipids"
+    },
+    {
+      "key": "fatty_acids_polyunsaturated_total_g",
+      "name": "Fatty acids, polyunsaturated, total",
+      "value": 0.11,
+      "unit": "g",
+      "raw_label": "Fatty acids, polyunsaturated, total(g)",
+      "raw_value": "0.11",
+      "category": "lipids"
+    },
+    {
+      "key": "cholesterol_mg",
+      "name": "Cholesterol",
+      "value": 0.0,
+      "unit": "mg",
+      "raw_label": "Cholesterol (mg)",
+      "raw_value": "0",
+      "category": "lipids"
+    }
+  ],
+  "measurements": [
+    {
+      "key": "energy_calculated_kcal",
+      "name": "Energy, calculated",
+      "value": 135.0,
+      "unit": "kcal",
+      "raw_label": "Energy, calculated (kcal)",
+      "raw_value": "135",
+      "category": "proximates"
+    }
+  ]
+}

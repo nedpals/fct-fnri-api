@@ -1,0 +1,224 @@
+{
+  "id": "D165",
+  "name": "Pepper, chili lvs",
+  "food_group_code": "D",
+  "food_group": "Vegetables and Products",
+  "scientific_name": "Capsicum frutescens",
+  "alternative_name": "Sili, labuyo, dahon",
+  "edible_portion_pct": 42.0,
+  "report_id": "3444",
+  "report_url": "https://i.fnri.dost.gov.ph/fct/library/report/3444",
+  "image_id": "3444",
+  "image_url": "https://i.fnri.dost.gov.ph/fct/library/load_image_fct/3444",
+  "nutrients": [
+    {
+      "key": "water_g",
+      "name": "Water",
+      "value": 84.4,
+      "unit": "g",
+      "raw_label": "Water (g)",
+      "raw_value": "84.4",
+      "category": "proximates"
+    },
+    {
+      "key": "protein_g",
+      "name": "Protein",
+      "value": 5.8,
+      "unit": "g",
+      "raw_label": "Protein (g)",
+      "raw_value": "5.8",
+      "category": "proximates"
+    },
+    {
+      "key": "total_fat_g",
+      "name": "Total Fat",
+      "value": 1.2,
+      "unit": "g",
+      "raw_label": "Total Fat (g)",
+      "raw_value": "1.2",
+      "category": "proximates"
+    },
+    {
+      "key": "carbohydrate_total_g",
+      "name": "Carbohydrate, total",
+      "value": 6.4,
+      "unit": "g",
+      "raw_label": "Carbohydrate, total (g)",
+      "raw_value": "6.4",
+      "category": "proximates"
+    },
+    {
+      "key": "ash_total_g",
+      "name": "Ash, total",
+      "value": 2.2,
+      "unit": "g",
+      "raw_label": "Ash, total (g)",
+      "raw_value": "2.2",
+      "category": "proximates"
+    },
+    {
+      "key": "fiber_total_dietary_g",
+      "name": "Fiber, total dietary",
+      "value": null,
+      "unit": "g",
+      "raw_label": "Fiber, total dietary (g)",
+      "raw_value": "-",
+      "category": "other_carbohydrate"
+    },
+    {
+      "key": "sugars_total_g",
+      "name": "Sugars, total",
+      "value": null,
+      "unit": "g",
+      "raw_label": "Sugars, total (g)",
+      "raw_value": "-",
+      "category": "other_carbohydrate"
+    },
+    {
+      "key": "calcium_ca_mg",
+      "name": "Calcium, Ca",
+      "value": 274.0,
+      "unit": "mg",
+      "raw_label": "Calcium, Ca (mg)",
+      "raw_value": "274",
+      "category": "minerals"
+    },
+    {
+      "key": "phosphorus_p_mg",
+      "name": "Phosphorus, P",
+      "value": 60.0,
+      "unit": "mg",
+      "raw_label": "Phosphorus, P (mg)",
+      "raw_value": "60",
+      "category": "minerals"
+    },
+    {
+      "key": "iron_fe_mg",
+      "name": "Iron, Fe",
+      "value": 3.5,
+      "unit": "mg",
+      "raw_label": "Iron, Fe (mg)",
+      "raw_value": "3.5",
+      "category": "minerals"
+    },
+    {
+      "key": "sodium_na_mg",
+      "name": "Sodium, Na",
+      "value": 5.0,
+      "unit": "mg",
+      "raw_label": "Sodium, Na (mg)",
+      "raw_value": "5",
+      "category": "minerals"
+    },
+    {
+      "key": "retinol_vitamin_a_g",
+      "name": "Retinol, Vitamin A",
+      "value": 0.0,
+      "unit": "\u00b5g",
+      "raw_label": "Retinol, Vitamin A (\u00b5g)",
+      "raw_value": "0",
+      "category": "vitamins"
+    },
+    {
+      "key": "beta_carotene_g",
+      "name": "beta-Carotene",
+      "value": 9495.0,
+      "unit": "\u00b5g",
+      "raw_label": "beta-Carotene (\u00b5g)",
+      "raw_value": "9495",
+      "category": "vitamins"
+    },
+    {
+      "key": "retinol_activity_equivalent_rae_g",
+      "name": "Retinol Activity Equivalent, RAE",
+      "value": 791.0,
+      "unit": "\u00b5g",
+      "raw_label": "Retinol Activity Equivalent, RAE (\u00b5g)",
+      "raw_value": "791",
+      "category": "vitamins"
+    },
+    {
+      "key": "thiamin_vitamin_b1_mg",
+      "name": "Thiamin, Vitamin B1",
+      "value": 0.37,
+      "unit": "mg",
+      "raw_label": "Thiamin, Vitamin B1 (mg)",
+      "raw_value": "0.37",
+      "category": "vitamins"
+    },
+    {
+      "key": "riboflavin_vitamin_b2_mg",
+      "name": "Riboflavin, Vitamin B2",
+      "value": 0.3,
+      "unit": "mg",
+      "raw_label": "Riboflavin, Vitamin B2 (mg)",
+      "raw_value": "0.30",
+      "category": "vitamins"
+    },
+    {
+      "key": "niacin_mg",
+      "name": "Niacin",
+      "value": 1.8,
+      "unit": "mg",
+      "raw_label": "Niacin (mg)",
+      "raw_value": "1.8",
+      "category": "vitamins"
+    },
+    {
+      "key": "ascorbic_acid_vitamin_c_mg",
+      "name": "Ascorbic Acid, Vitamin C",
+      "value": 41.0,
+      "unit": "mg",
+      "raw_label": "Ascorbic Acid, Vitamin C (mg)",
+      "raw_value": "41",
+      "category": "vitamins"
+    },
+    {
+      "key": "fatty_acids_saturated_total_g",
+      "name": "Fatty acids, saturated, total",
+      "value": null,
+      "unit": "g",
+      "raw_label": "Fatty acids, saturated, total (g)",
+      "raw_value": "-",
+      "category": "lipids"
+    },
+    {
+      "key": "fatty_acids_monounsaturated_total_g",
+      "name": "Fatty acids, monounsaturated, total",
+      "value": null,
+      "unit": "g",
+      "raw_label": "Fatty acids, monounsaturated, total (g)",
+      "raw_value": "-",
+      "category": "lipids"
+    },
+    {
+      "key": "fatty_acids_polyunsaturated_total_g",
+      "name": "Fatty acids, polyunsaturated, total",
+      "value": null,
+      "unit": "g",
+      "raw_label": "Fatty acids, polyunsaturated, total(g)",
+      "raw_value": "-",
+      "category": "lipids"
+    },
+    {
+      "key": "cholesterol_mg",
+      "name": "Cholesterol",
+      "value": 0.0,
+      "unit": "mg",
+      "raw_label": "Cholesterol (mg)",
+      "raw_value": "0",
+      "category": "lipids"
+    }
+  ],
+  "measurements": [
+    {
+      "key": "energy_calculated_kcal",
+      "name": "Energy, calculated",
+      "value": 60.0,
+      "unit": "kcal",
+      "raw_label": "Energy, calculated (kcal)",
+      "raw_value": "60",
+      "category": "proximates"
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "id": "C018",
+  "name": "Kidney bean seed, black, dried",
+  "food_group_code": "C",
+  "food_group": "Nuts, Dried Beans, Seeds and Products",
+  "scientific_name": "Phaseolus vulgaris",
+  "alternative_name": "Abitsuwelas buto, itim, tuyo",
+  "edible_portion_pct": 100.0,
+  "report_id": "3228",
+  "report_url": "https://i.fnri.dost.gov.ph/fct/library/report/3228",
+  "image_id": "3228",
+  "image_url": "https://i.fnri.dost.gov.ph/fct/library/load_image_fct/3228",
+  "nutrients": [
+    {
+      "key": "water_g",
+      "name": "Water",
+      "value": 5.2,
+      "unit": "g",
+      "raw_label": "Water (g)",
+      "raw_value": "5.2",
+      "category": "proximates"
+    },
+    {
+      "key": "protein_g",
+      "name": "Protein",
+      "value": 20.2,
+      "unit": "g",
+      "raw_label": "Protein (g)",
+      "raw_value": "20.2",
+      "category": "proximates"
+    },
+    {
+      "key": "total_fat_g",
+      "name": "Total Fat",
+      "value": 1.9,
+      "unit": "g",
+      "raw_label": "Total Fat (g)",
+      "raw_value": "1.9",
+      "category": "proximates"
+    },
+    {
+      "key": "carbohydrate_total_g",
+      "name": "Carbohydrate, total",
+      "value": 69.1,
+      "unit": "g",
+      "raw_label": "Carbohydrate, total (g)",
+      "raw_value": "69.1",
+      "category": "proximates"
+    },
+    {
+      "key": "ash_total_g",
+      "name": "Ash, total",
+      "value": 3.6,
+      "unit": "g",
+      "raw_label": "Ash, total (g)",
+      "raw_value": "3.6",
+      "category": "proximates"
+    },
+    {
+      "key": "fiber_total_dietary_g",
+      "name": "Fiber, total dietary",
+      "value": 16.5,
+      "unit": "g",
+      "raw_label": "Fiber, total dietary (g)",
+      "raw_value": "16.5",
+      "category": "other_carbohydrate"
+    },
+    {
+      "key": "sugars_total_g",
+      "name": "Sugars, total",
+      "value": 2.3,
+      "unit": "g",
+      "raw_label": "Sugars, total (g)",
+      "raw_value": "2.3",
+      "category": "other_carbohydrate"
+    },
+    {
+      "key": "calcium_ca_mg",
+      "name": "Calcium, Ca",
+      "value": 230.0,
+      "unit": "mg",
+      "raw_label": "Calcium, Ca (mg)",
+      "raw_value": "230",
+      "category": "minerals"
+    },
+    {
+      "key": "phosphorus_p_mg",
+      "name": "Phosphorus, P",
+      "value": 342.0,
+      "unit": "mg",
+      "raw_label": "Phosphorus, P (mg)",
+      "raw_value": "342",
+      "category": "minerals"
+    },
+    {
+      "key": "iron_fe_mg",
+      "name": "Iron, Fe",
+      "value": 4.5,
+      "unit": "mg",
+      "raw_label": "Iron, Fe (mg)",
+      "raw_value": "4.5",
+      "category": "minerals"
+    },
+    {
+      "key": "sodium_na_mg",
+      "name": "Sodium, Na",
+      "value": 5.0,
+      "unit": "mg",
+      "raw_label": "Sodium, Na (mg)",
+      "raw_value": "5",
+      "category": "minerals"
+    },
+    {
+      "key": "retinol_vitamin_a_g",
+      "name": "Retinol, Vitamin A",
+      "value": 0.0,
+      "unit": "\u00b5g",
+      "raw_label": "Retinol, Vitamin A (\u00b5g)",
+      "raw_value": "0",
+      "category": "vitamins"
+    },
+    {
+      "key": "beta_carotene_g",
+      "name": "beta-Carotene",
+      "value": 0.0,
+      "unit": "\u00b5g",
+      "raw_label": "beta-Carotene (\u00b5g)",
+      "raw_value": "0",
+      "category": "vitamins"
+    },
+    {
+      "key": "retinol_activity_equivalent_rae_g",
+      "name": "Retinol Activity Equivalent, RAE",
+      "value": 0.0,
+      "unit": "\u00b5g",
+      "raw_label": "Retinol Activity Equivalent, RAE (\u00b5g)",
+      "raw_value": "0",
+      "category": "vitamins"
+    },
+    {
+      "key": "thiamin_vitamin_b1_mg",
+      "name": "Thiamin, Vitamin B1",
+      "value": 0.56,
+      "unit": "mg",
+      "raw_label": "Thiamin, Vitamin B1 (mg)",
+      "raw_value": "0.56",
+      "category": "vitamins"
+    },
+    {
+      "key": "riboflavin_vitamin_b2_mg",
+      "name": "Riboflavin, Vitamin B2",
+      "value": 0.2,
+      "unit": "mg",
+      "raw_label": "Riboflavin, Vitamin B2 (mg)",
+      "raw_value": "0.20",
+      "category": "vitamins"
+    },
+    {
+      "key": "niacin_mg",
+      "name": "Niacin",
+      "value": 2.4,
+      "unit": "mg",
+      "raw_label": "Niacin (mg)",
+      "raw_value": "2.4",
+      "category": "vitamins"
+    },
+    {
+      "key": "niacin_from_tryptophan_mg",
+      "name": "Niacin from Tryptophan",
+      "value": 4.8,
+      "unit": "mg",
+      "raw_label": "Niacin from Tryptophan (mg)",
+      "raw_value": "4.8",
+      "category": "vitamins"
+    },
+    {
+      "key": "ascorbic_acid_vitamin_c_mg",
+      "name": "Ascorbic Acid, Vitamin C",
+      "value": 0.0,
+      "unit": "mg",
+      "raw_label": "Ascorbic Acid, Vitamin C (mg)",
+      "raw_value": "0",
+      "category": "vitamins"
+    },
+    {
+      "key": "fatty_acids_saturated_total_g",
+      "name": "Fatty acids, saturated, total",
+      "value": 0.49,
+      "unit": "g",
+      "raw_label": "Fatty acids, saturated, total (g)",
+      "raw_value": "0.49",
+      "category": "lipids"
+    },
+    {
+      "key": "fatty_acids_monounsaturated_total_g",
+      "name": "Fatty acids, monounsaturated, total",
+      "value": 0.16,
+      "unit": "g",
+      "raw_label": "Fatty acids, monounsaturated, total (g)",
+      "raw_value": "0.16",
+      "category": "lipids"
+    },
+    {
+      "key": "fatty_acids_polyunsaturated_total_g",
+      "name": "Fatty acids, polyunsaturated, total",
+      "value": 0.82,
+      "unit": "g",
+      "raw_label": "Fatty acids, polyunsaturated, total(g)",
+      "raw_value": "0.82",
+      "category": "lipids"
+    },
+    {
+      "key": "cholesterol_mg",
+      "name": "Cholesterol",
+      "value": 0.0,
+      "unit": "mg",
+      "raw_label": "Cholesterol (mg)",
+      "raw_value": "0",
+      "category": "lipids"
+    }
+  ],
+  "measurements": [
+    {
+      "key": "energy_calculated_kcal",
+      "name": "Energy, calculated",
+      "value": 374.0,
+      "unit": "kcal",
+      "raw_label": "Energy, calculated (kcal)",
+      "raw_value": "374",
+      "category": "proximates"
+    }
+  ]
+}

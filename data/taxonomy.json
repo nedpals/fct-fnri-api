@@ -1,0 +1,295 @@
+{
+  "generated_at": "2026-02-09T04:06:08.982495+00:00",
+  "summary": {
+    "total_nutrients": 41,
+    "total_categories": 5
+  },
+  "nutrients": [
+    {
+      "key": "arachidic_c20_g",
+      "name": "Arachidic, C20",
+      "unit": "g",
+      "raw_label": "Arachidic, C20 (g)"
+    },
+    {
+      "key": "ascorbic_acid_vitamin_c_mg",
+      "name": "Ascorbic Acid, Vitamin C",
+      "unit": "mg",
+      "raw_label": "Ascorbic Acid, Vitamin C (mg)"
+    },
+    {
+      "key": "ash_total_g",
+      "name": "Ash, total",
+      "unit": "g",
+      "raw_label": "Ash, total (g)"
+    },
+    {
+      "key": "behenic_c22_g",
+      "name": "Behenic, C22",
+      "unit": "g",
+      "raw_label": "Behenic, C22 (g)"
+    },
+    {
+      "key": "beta_carotene_g",
+      "name": "beta-Carotene",
+      "unit": "\u00b5g",
+      "raw_label": "beta-Carotene (\u00b5g)"
+    },
+    {
+      "key": "calcium_ca_mg",
+      "name": "Calcium, Ca",
+      "unit": "mg",
+      "raw_label": "Calcium, Ca (mg)"
+    },
+    {
+      "key": "capric_c10_g",
+      "name": "Capric, C10",
+      "unit": "g",
+      "raw_label": "Capric, C10 (g)"
+    },
+    {
+      "key": "caproic_c6_g",
+      "name": "Caproic, C6",
+      "unit": "g",
+      "raw_label": "Caproic, C6 (g)"
+    },
+    {
+      "key": "caprylic_c8_g",
+      "name": "Caprylic, C8",
+      "unit": "g",
+      "raw_label": "Caprylic, C8 (g)"
+    },
+    {
+      "key": "carbohydrate_available_g",
+      "name": "Carbohydrate, available",
+      "unit": "g",
+      "raw_label": "Carbohydrate, available (g)"
+    },
+    {
+      "key": "carbohydrate_total_g",
+      "name": "Carbohydrate, total",
+      "unit": "g",
+      "raw_label": "Carbohydrate, total (g)"
+    },
+    {
+      "key": "cholesterol_mg",
+      "name": "Cholesterol",
+      "unit": "mg",
+      "raw_label": "Cholesterol (mg)"
+    },
+    {
+      "key": "energy_calculated_kcal",
+      "name": "Energy, calculated",
+      "unit": "kcal",
+      "raw_label": "Energy, calculated (kcal)"
+    },
+    {
+      "key": "energy_calculated_kj",
+      "name": "Energy, calculated",
+      "unit": "kJ",
+      "raw_label": "Energy, calculated (kJ)"
+    },
+    {
+      "key": "fatty_acids_monounsaturated_total_g",
+      "name": "Fatty acids, monounsaturated, total",
+      "unit": "g",
+      "raw_label": "Fatty acids, monounsaturated, total (g)"
+    },
+    {
+      "key": "fatty_acids_polyunsaturated_total_g",
+      "name": "Fatty acids, polyunsaturated, total",
+      "unit": "g",
+      "raw_label": "Fatty acids, polyunsaturated, total(g)"
+    },
+    {
+      "key": "fatty_acids_saturated_total_g",
+      "name": "Fatty acids, saturated, total",
+      "unit": "g",
+      "raw_label": "Fatty acids, saturated, total (g)"
+    },
+    {
+      "key": "fiber_total_dietary_g",
+      "name": "Fiber, total dietary",
+      "unit": "g",
+      "raw_label": "Fiber, total dietary (g)"
+    },
+    {
+      "key": "iron_fe_mg",
+      "name": "Iron, Fe",
+      "unit": "mg",
+      "raw_label": "Iron, Fe (mg)"
+    },
+    {
+      "key": "lauric_c12_g",
+      "name": "Lauric, C12",
+      "unit": "g",
+      "raw_label": "Lauric, C12 (g)"
+    },
+    {
+      "key": "lignoceric_c24_g",
+      "name": "Lignoceric, C24",
+      "unit": "g",
+      "raw_label": "Lignoceric, C24 (g)"
+    },
+    {
+      "key": "linoleic_c18_2_g",
+      "name": "Linoleic, C18:2",
+      "unit": "g",
+      "raw_label": "Linoleic, C18:2 (g)"
+    },
+    {
+      "key": "linolenic_c18_3_g",
+      "name": "Linolenic, C18:3",
+      "unit": "g",
+      "raw_label": "Linolenic, C18:3 (g)"
+    },
+    {
+      "key": "myristic_c14_g",
+      "name": "Myristic, C14",
+      "unit": "g",
+      "raw_label": "Myristic, C14 (g)"
+    },
+    {
+      "key": "niacin_from_tryptophan_mg",
+      "name": "Niacin from Tryptophan",
+      "unit": "mg",
+      "raw_label": "Niacin from Tryptophan (mg)"
+    },
+    {
+      "key": "niacin_mg",
+      "name": "Niacin",
+      "unit": "mg",
+      "raw_label": "Niacin (mg)"
+    },
+    {
+      "key": "oleic_c18_1_g",
+      "name": "Oleic , C18:1",
+      "unit": "g",
+      "raw_label": "Oleic , C18:1 (g)"
+    },
+    {
+      "key": "palmitic_c16_g",
+      "name": "Palmitic, C16",
+      "unit": "g",
+      "raw_label": "Palmitic, C16 (g)"
+    },
+    {
+      "key": "phosphorus_p_mg",
+      "name": "Phosphorus, P",
+      "unit": "mg",
+      "raw_label": "Phosphorus, P (mg)"
+    },
+    {
+      "key": "potassium_k_mg",
+      "name": "Potassium, K",
+      "unit": "mg",
+      "raw_label": "Potassium, K (mg)"
+    },
+    {
+      "key": "protein_g",
+      "name": "Protein",
+      "unit": "g",
+      "raw_label": "Protein (g)"
+    },
+    {
+      "key": "retinol_activity_equivalent_rae_g",
+      "name": "Retinol Activity Equivalent, RAE",
+      "unit": "\u00b5g",
+      "raw_label": "Retinol Activity Equivalent, RAE (\u00b5g)"
+    },
+    {
+      "key": "retinol_vitamin_a_g",
+      "name": "Retinol, Vitamin A",
+      "unit": "\u00b5g",
+      "raw_label": "Retinol, Vitamin A (\u00b5g)"
+    },
+    {
+      "key": "riboflavin_vitamin_b2_mg",
+      "name": "Riboflavin, Vitamin B2",
+      "unit": "mg",
+      "raw_label": "Riboflavin, Vitamin B2 (mg)"
+    },
+    {
+      "key": "sodium_na_mg",
+      "name": "Sodium, Na",
+      "unit": "mg",
+      "raw_label": "Sodium, Na (mg)"
+    },
+    {
+      "key": "stearic_c18_g",
+      "name": "Stearic, C18",
+      "unit": "g",
+      "raw_label": "Stearic, C18 (g)"
+    },
+    {
+      "key": "sugars_total_g",
+      "name": "Sugars, total",
+      "unit": "g",
+      "raw_label": "Sugars, total (g)"
+    },
+    {
+      "key": "thiamin_vitamin_b1_mg",
+      "name": "Thiamin, Vitamin B1",
+      "unit": "mg",
+      "raw_label": "Thiamin, Vitamin B1 (mg)"
+    },
+    {
+      "key": "total_fat_g",
+      "name": "Total Fat",
+      "unit": "g",
+      "raw_label": "Total Fat (g)"
+    },
+    {
+      "key": "water_g",
+      "name": "Water",
+      "unit": "g",
+      "raw_label": "Water (g)"
+    },
+    {
+      "key": "zinc_zn_mg",
+      "name": "Zinc, Zn",
+      "unit": "mg",
+      "raw_label": "Zinc, Zn (mg)"
+    }
+  ],
+  "categories": [
+    {
+      "key": "lipids",
+      "label": "Lipids",
+      "amount_basis": "Amount per 100 g E.P.",
+      "count": 1542,
+      "sections": []
+    },
+    {
+      "key": "minerals",
+      "label": "Minerals",
+      "amount_basis": "Amount per 100 g E.P.",
+      "count": 1542,
+      "sections": []
+    },
+    {
+      "key": "other_carbohydrate",
+      "label": "Other Carbohydrate",
+      "amount_basis": "Amount per 100 g E.P.",
+      "count": 1542,
+      "sections": []
+    },
+    {
+      "key": "proximates",
+      "label": "Proximates",
+      "amount_basis": "Amount per 100 g E.P.",
+      "count": 1542,
+      "sections": []
+    },
+    {
+      "key": "vitamins",
+      "label": "Vitamins",
+      "amount_basis": "Amount per 100 g E.P.",
+      "count": 1542,
+      "sections": [
+        "Fat-Soluble Vitamins",
+        "Water-Soluble Vitamins"
+      ]
+    }
+  ]
+}
