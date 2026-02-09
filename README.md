@@ -45,7 +45,7 @@ and then run the server:
 uvicorn server:app
 ```
 
-### API Endpoints (v1)
+#### API Endpoints (v1)
 
 - `GET /v1/foods`
   - Query params: `q`, `category`, `nutrient`, `food_group_code`, `food_group`, `sort`, `order`, `limit`, `offset`
@@ -62,7 +62,7 @@ Responses use a consistent envelope:
 }
 ```
 
-### Caching
+#### Caching
 
 For instant responses, the API server employs an sqlite-based in-memory cache that is populated on startup by reading the JSON files. This allows for fast querying without the overhead of parsing JSON files on each request. To update the cache with new data, simply restart the server after adding or modifying the JSON files in the `data/foods/` directory.
 
